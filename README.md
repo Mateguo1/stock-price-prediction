@@ -1,8 +1,9 @@
 # stock-price-prediction
-A simple demo about using 2-d method to convert the time-series stock price to 2d image and using some DL model to analyze them
+A simple demo about using 2-d method(GAF) to convert the time-series stock price to 2-d image and using some DL methods to analyze the generated images.
 
-More details and adjustments about the code will be updated shortly, references:
+More details and adjustments about the code will be updated shortly, references as follows:
 
+```
 @misc{he2015deep,
        title={Deep Residual Learning for Image Recognition},
        author={Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
@@ -30,3 +31,5 @@ More details and adjustments about the code will be updated shortly, references:
    year={2018},
    publisher={Elsevier}
 }
+```
+
